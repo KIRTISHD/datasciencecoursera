@@ -1,2 +1,2 @@
 # datasciencecoursera
-Related to Data Science toolbox course @ coursera
+Related to Data Science toolbox course @ coursera today
